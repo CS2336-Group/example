@@ -1,1 +1,2 @@
 Changed!
+Adding a new line.
